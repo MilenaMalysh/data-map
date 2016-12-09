@@ -1,0 +1,8 @@
+# JetBrains template
+
+.idea/
+myenv/
+
+*.pyc
+
+
